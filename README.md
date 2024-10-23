@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Computer Science & Development**
 
 - 📫 How to reach me **oussama.rahmouni.manager@gmail.com**
 
